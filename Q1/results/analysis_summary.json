@@ -1,0 +1,22 @@
+{
+  "total_projects": 17,
+  "total_loc": 109204,
+  "avg_loc_per_project": 6423.764705882353,
+  "total_components": 286,
+  "total_routes": 95,
+  "total_models": 57,
+  "avg_textual_similarity": 0.1335439909351655,
+  "avg_structural_similarity": 0.5617691371014361,
+  "avg_semantic_similarity": 0.1460713955973659,
+  "avg_combined_similarity": 0.2657697561837068,
+  "max_similarity_pair": [
+    "VidyaVichar-Classroo",
+    "VidyaVichar-T28",
+    0.513621509294825
+  ],
+  "min_similarity_pair": [
+    "vidya-vichar",
+    "Team_25",
+    0.004420256812102544
+  ]
+}
